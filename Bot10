@@ -664,4 +664,4 @@ async def on_ready():
     except Exception as e:
         print(f"Erro ao sincronizar comandos: {e}")
 
-bot.run("MTI0ODM1MDY4Mzg1ODYwNDE1Mw.GHl2-f.3yfQiKkjfFY9lE0xDiw4H-sgkva4KQtmDoEyvo")  # Substitua "TOKEN" pelo seu token de bot
+bot.run("token")  # Substitua "TOKEN" pelo seu token de bot
